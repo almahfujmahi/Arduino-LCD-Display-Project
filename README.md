@@ -4,7 +4,7 @@
 A simple Arduino-based LCD display project designed and simulated using Proteus.
 
 This project uses an Arduino Uno and a 16x2 LCD to display a welcome message. The circuit was designed in Proteus, and the Arduino program was written using the Arduino IDE.
-
+![Proteus Circuit](Proteus_Circuit.jpeg)
 Hardware
 
 Arduino Uno  
